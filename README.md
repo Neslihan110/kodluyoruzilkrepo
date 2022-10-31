@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 . İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![  ] (file:///C:/Users/ahmet/Desktop/GitHub.PNG )
+![  ] (file:///C:/Users/ahmet/Desktop/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.MHT )
 
 ## Installation
 
